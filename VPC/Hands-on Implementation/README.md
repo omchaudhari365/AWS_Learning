@@ -1,5 +1,5 @@
-AWS VPC & VPC Peering — Step-by-Step Hands-on Lab
-
+**AWS VPC & VPC Peering — Step-by-Step Hands-on Lab
+**
 This repository documents my hands-on AWS networking lab, where I created VPC infrastructure, configured networking components, established VPC Peering, and tested connectivity between EC2 instances.
 
 ☁️ Architecture
