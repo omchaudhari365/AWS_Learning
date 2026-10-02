@@ -1,23 +1,14 @@
-# IAM (Identity and Access Management)
+# AWS IAM
 
-I learned the basics of AWS Identity and Access Management (IAM).
+**AWS IAM (Identity and Access Management)** is a security service provided by AWS that helps manage **users, roles, permissions, and access** to AWS resources.
 
-## What I Completed
+IAM allows administrators to control **who can access AWS resources and what actions they are allowed to perform**.
 
-- Created an IAM User Group named **Dev-om**
-- Attached the required permissions to the group
-- Created an IAM User named **omya**
-- Added the IAM User to the User Group
-- Verified that the user and group were successfully created
+## Key Features
 
-## Skills Practiced
-
-- IAM User Management
-- IAM User Groups
-- IAM Policies
-- Access Management
-- AWS Security Best Practices
-
-## Outcome
-
-Successfully created and managed IAM users and groups while following AWS access management best practices.
+* User and group management
+* Role-based access
+* Fine-grained permissions
+* Policies for controlling access
+* Multi-Factor Authentication (MFA)
+* Secure access to AWS resources
